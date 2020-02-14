@@ -2,7 +2,7 @@
 layout: post
 title: Every conversation within you, starts a celebration in me
 date: 9.5.2019, 17:55:06
-image: /content/ editoren.png
+image: /content/editoren.png
 tags:
 - vinyl
 - editors
