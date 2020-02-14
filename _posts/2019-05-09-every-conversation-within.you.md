@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Every conversation within you, starts a celebration in me
-date: 9.5.2019, 17:55:06
+date: 9.5.2019, 17:55:07
 image: /content/editoren.png
 tags:
 - vinyl
