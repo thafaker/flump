@@ -2,7 +2,7 @@
 layout: post
 title: Schallplattenspieler - heute
 date: '2016-12-02 19:14:55'
-image: vintage.jpg
+image: /content/ vintage.jpg
 tags:
 - vintage-hifi
 - schallplatte

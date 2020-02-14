@@ -2,7 +2,7 @@
 layout: post
 title: Talking Heads - Remain In Light
 date: '2016-11-29 21:09:07'
-image: heads.jpg
+image: /content/ heads.jpg
 tags:
 - talking-heads
 - vinyl

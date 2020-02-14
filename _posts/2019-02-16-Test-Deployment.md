@@ -7,7 +7,7 @@ tags:
 - fix.it
 - github
 - buddyworks
-image: dlanor-s-703975-unsplash.jpg
+image: /content/ dlanor-s-703975-unsplash.jpg
 date: 2019-02-16, 22:09:25
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: The End
 date: '2015-08-03 19:04:11'
-image: nico.jpg
+image: /content/ nico.jpg
 tags: 
  - musik
  - vinyl

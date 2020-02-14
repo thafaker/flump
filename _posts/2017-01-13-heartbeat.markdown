@@ -2,7 +2,7 @@
 layout: post
 title: Heartbeat
 date: '2017-01-13 18:18:45'
-image: heartbeat.jpg
+image: /content/ heartbeat.jpg
 tags:
 - vinyl
 - verlebt

@@ -2,7 +2,7 @@
 layout: post
 title: Come Back Life
 date: 2019-05-04 01:00:00 +0200
-image: kadavar.png
+image: /content/ kadavar.png
 tags:
 - vinyl
 - kadavar

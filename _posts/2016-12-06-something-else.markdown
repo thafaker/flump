@@ -2,7 +2,7 @@
 layout: post
 title: Something Else…
 date: '2016-12-06 18:01:26'
-image: cannonball.jpg
+image: /content/ cannonball.jpg
 tags:
 - video
 - vinyl

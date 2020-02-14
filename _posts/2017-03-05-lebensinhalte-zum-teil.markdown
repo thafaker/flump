@@ -2,7 +2,7 @@
 layout: post
 title: Lebensinhalte, zum Teil.
 date: '2017-03-05 15:49:53'
-image: radrenne.jpg
+image: /content/ radrenne.jpg
 tags:
 - vinyl
 - rennrad

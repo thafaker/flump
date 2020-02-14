@@ -2,7 +2,7 @@
 layout: post
 title: Standing on a Beach
 date: '2017-04-28 09:13:30'
-image: rsd2017.jpg
+image: /content/ rsd2017.jpg
 tags:
 - the-cure
 - vinyl

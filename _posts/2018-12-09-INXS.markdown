@@ -2,7 +2,7 @@
 layout: post
 title: In Excess!!!
 date: '19:21 2018-12-09'
-image: tape.jpg
+image: /content/ tape.jpg
 tags: 
  - inxs
  - persönlich

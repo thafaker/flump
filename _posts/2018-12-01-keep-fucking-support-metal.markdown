@@ -2,7 +2,7 @@
 layout: post
 title: Keep fucking support metal
 date: '2018-12-01'
-image: slayer.jpg
+image: /content/ slayer.jpg
 tags: 
  - musik
  - konzert
