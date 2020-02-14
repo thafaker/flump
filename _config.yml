@@ -68,7 +68,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
+  email: "webmaster@thafaker.de"
 #  facebook: deanattali
   github: thafaker
   twitter: herr_montag_
@@ -93,7 +93,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "thafaker.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "JanMontag.de"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -159,7 +159,8 @@ date_format: "%B %-d, %Y"
 timezone: "Europe/Berlin"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: pretty
+#permalink: /:year-:month-:day-:title/
 paginate: 5
 
 kramdown:
