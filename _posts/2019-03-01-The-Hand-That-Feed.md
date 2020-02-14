@@ -2,7 +2,7 @@
 layout: post
 title: The Hand That Feed
 date: 1.3.2019, 20:02:09
-image: /content/images/trent.jpg
+image: /content/images/images/trent.jpg
 tags:
 - Nine Inch Nails
 - Trent Reznor

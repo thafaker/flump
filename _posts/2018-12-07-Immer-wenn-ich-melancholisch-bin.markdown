@@ -2,8 +2,8 @@
 layout: post
 title: Immer wenn ich melancholisch bin…
 date: '22:31 2018-12-07'
-image: /content/ osman-rana-575987-unsplash.jpg
-tags: 
+image: /content/images/osman-rana-575987-unsplash.jpg
+tags:
  - Sukiyaki
  - Kyu Sakamoto
  - persönlich

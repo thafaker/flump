@@ -2,7 +2,7 @@
 layout: post
 title: Dieser Plattenspieler ist nur ein Rad
 date: '2017-02-27 18:06:03'
-image: /content/ the-wheel_inside.jpg
+image: /content/images/ the-wheel_inside.jpg
 tags:
 - vinyl
 - schallplattenspieler

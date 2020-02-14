@@ -2,7 +2,7 @@
 layout: post
 title: Ich fahre V8
 date: '2016-04-26 13:29:44'
-image: /content/ 540.jpg
+image: /content/images/ 540.jpg
 tags: 
  - V8
  - autolove
