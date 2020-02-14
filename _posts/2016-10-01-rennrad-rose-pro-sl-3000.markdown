@@ -2,7 +2,7 @@
 layout: post
 title: Rose Pro SL 3000
 date: '2016-10-01 10:03:20'
-image: /content/images/ bike1.jpg
+image: /content/images/bike1.jpg
 tags:
 - vintage
 - rennrad
@@ -19,7 +19,7 @@ Ein neues [Rennrad](/about/), so trug es sich zu, sollte den Weg zu mir finden. 
 ![](/content/images/posts/2015-05/bike1.jpg)
 <small>Alperstedter See '2015</small>
 
-In mir war Zeit, für das Rennrad war es Zeit. Kurzum, gesagt - getan. 
+In mir war Zeit, für das Rennrad war es Zeit. Kurzum, gesagt - getan.
 
 ![](/content/images/posts/2016-04/radrenne.jpg)
 <small>RIH Elan Radrenne '2016</small>
@@ -41,23 +41,23 @@ Das Rennrad besteht komplett aus Shimano Ultegra, in der 6800er Version.
 
 #### Specs des Pro SL 3000 (2016)
 
-* Rahmen: 7005 T6 Ultralight Aluminium, triple-butted, ab ca. 1.280g shiny-white/grey-red 
-* Größe: 61cm	
-* Gabel: PRO SL Modulus Vollcarbon 1 1/8" - 1.5" shiny-white/red	
+* Rahmen: 7005 T6 Ultralight Aluminium, triple-butted, ab ca. 1.280g shiny-white/grey-red
+* Größe: 61cm
+* Gabel: PRO SL Modulus Vollcarbon 1 1/8" - 1.5" shiny-white/red
 * Spacer: Xtreme Tri Spacer Alu, Alu Spacer 15mm schwarz
 * Laufrad vorne: Mavic Aksium Elite WTS (Reifen: 700x25c) 28"
 * Felgenbremse SHIMANO - Bremskörpersatz Ultegra, BR-6800
 * Tretlager: SHIMANO - Ultegra, 50x34T, FC-6800, Hollowtech 2, für 11-fach, 175mm
 * Schaltbremshebel: SHIMANO - Brems-/Schaltkombi Ultegra 6800, 2/11-fach
 * Umwerfer SHIMANO - Umwerfer Ultegra, FD-6800, double&rear 11-fach
-* Kette	Shimano Ultegra CN-HG701 11-fach 116 L	
-* SHIMANO - Zahnkranz Ultegra, CS-6800, 11-fach - 11-32	
-* Schaltwerk: Shimano Ultegra 6800 GS	
+* Kette	Shimano Ultegra CN-HG701 11-fach 116 L
+* SHIMANO - Zahnkranz Ultegra, CS-6800, 11-fach - 11-32
+* Schaltwerk: Shimano Ultegra 6800 GS
 * Lenker: Rennlenker Comp Road Streem II, matt-black 44cm
 * Lenkerband: fi´zi:k Lenkerband Microtex
-* Vorbau: Ritchey WCS C-220 wet black 120mm	
-* Sattel: Selle Italia SLS Flow schwarz/rot	
-* Sattelstütze: Ritchey 2B Comp Carbon carbon-glänzend Ø27,2/350mm	
+* Vorbau: Ritchey WCS C-220 wet black 120mm
+* Sattel: Selle Italia SLS Flow schwarz/rot
+* Sattelstütze: Ritchey 2B Comp Carbon carbon-glänzend Ø27,2/350mm
 * Pedale: Keo Look 2
 
 ![](/content/images/2016/10/IMG_1410.JPG)
@@ -70,7 +70,7 @@ Das Rennrad besteht komplett aus Shimano Ultegra, in der 6800er Version.
 
 ![](/content/images/2016/10/IMG_1457.JPG)
 
-Ich will jetzt nur noch wenigstens ein paar Tage kurz schönes Wetter, um das Rad ausgiebig und gebührend einfahren und überhaupt fahren zu können. 
+Ich will jetzt nur noch wenigstens ein paar Tage kurz schönes Wetter, um das Rad ausgiebig und gebührend einfahren und überhaupt fahren zu können.
 
 *Lieber Gott lass die die Sonne wieder scheinen, für Papa für Mama und für mich…*
 

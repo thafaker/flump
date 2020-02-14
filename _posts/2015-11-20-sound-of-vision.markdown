@@ -2,7 +2,7 @@
 layout: post
 title: Sound Of Vision
 date: '2015-11-20 20:16:51'
-image: /content/images/ sl10.jpg
+image: /content/images/sl10.jpg
 tags:
 - vintage-hifi
 - vintage

@@ -2,7 +2,7 @@
 layout: post
 title: Schallplattenspieler - heute
 date: '2016-12-02 19:14:55'
-image: /content/images/ vintage.jpg
+image: /content/images/vintage.jpg
 tags:
 - vintage-hifi
 - schallplatte
@@ -76,7 +76,7 @@ Und wenn ihr jetzt schon am Schallplattenhören seid, dann empfehle ich euch zum
 ![Editors Vinyl - In Dream sowie Weight of the World](/content/images/2016/12/IMG_2303.JPG)<small>Editors Vinyl - In Dream sowie Weight of the World</small>
 
 <small>
-**Artikelbilder**: Alle (C) liegen bei mir, außer die Bilder der Schallplattenspieler ab "Bezahlbare neue Plattenspieler 2016". 
+**Artikelbilder**: Alle (C) liegen bei mir, außer die Bilder der Schallplattenspieler ab "Bezahlbare neue Plattenspieler 2016".
 </small>
 
 ---

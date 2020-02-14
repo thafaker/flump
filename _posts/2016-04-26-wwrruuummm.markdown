@@ -2,8 +2,8 @@
 layout: post
 title: Ich fahre V8
 date: '2016-04-26 13:29:44'
-image: /content/images/ 540.jpg
-tags: 
+image: /content/images/540.jpg
+tags:
  - V8
  - autolove
  - 540i
@@ -26,7 +26,7 @@ Es ist eben kraftvoll. Mehr Brennräume, nichts anderes sind ja die Zylinder, be
 ![BMW 540i E39](/assets/2016/540.jpg)
 <small>BMW 540i E39</small>
 
-Natürlich kann man die Frage anbringen, warum man heutzutage V8 im Alltag fahren muss, sowas großes. Ganz klar: muss man nicht! Ich mache das freiwillig. Es zaubert mir jeden Morgen ein Lächeln ins Gesicht und auf dem Rückweg genauso. Und wenn größere Strecken anstehen, fahre ich sie gern und freiwillig - weil es mir Spaß macht. 
+Natürlich kann man die Frage anbringen, warum man heutzutage V8 im Alltag fahren muss, sowas großes. Ganz klar: muss man nicht! Ich mache das freiwillig. Es zaubert mir jeden Morgen ein Lächeln ins Gesicht und auf dem Rückweg genauso. Und wenn größere Strecken anstehen, fahre ich sie gern und freiwillig - weil es mir Spaß macht.
 
 Ja…
 *Ich fahr V8*.

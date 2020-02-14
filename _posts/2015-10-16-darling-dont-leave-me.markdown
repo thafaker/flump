@@ -2,8 +2,8 @@
 layout: post
 title: Darling don't leave me
 date: '2015-10-16 19:48:04'
-image: /content/images/ darling.jpg
-tags: 
+image: /content/images/darling.jpg
+tags:
  - musik
  - vinyl
  - verlebt
@@ -15,7 +15,7 @@ tags:
 ![Night Full Of Tension 1984 Vinyl](/assets/2015/darling.jpg)
 <small>Night Full Of Tension 1984 Vinyl</small>
 
-Und wie das eben so ist: und wie das bei *mir* eben immer so ist, verbinde ich das Album mit etwas. Einem Ereignis etwa. Wohl. Und deshalb sind zwei Songs herausragend - zumindest in jener, dieser - meiner Wahrnehmung. 
+Und wie das eben so ist: und wie das bei *mir* eben immer so ist, verbinde ich das Album mit etwas. Einem Ereignis etwa. Wohl. Und deshalb sind zwei Songs herausragend - zumindest in jener, dieser - meiner Wahrnehmung.
 
 <div align="center">
 	<iframe width="420" height="315" src="https://www.youtube.com/embed/M95Dws35cKQ" frameborder="0" allowfullscreen></iframe>
