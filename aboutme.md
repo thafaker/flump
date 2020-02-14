@@ -2,9 +2,10 @@
 layout: page
 title: About me
 subtitle: Alles über Herrn Montag
+published: true
 ---
 
-Ich [^1] schreibe hier über meine Erlebnisse. Das mag befremdlich klingen, hilft es mir selbst aber, mich auch in *fünf Jahren* noch erinnern zu können. Denn Gedanken sind **fluide**, Gefühle und Zeiten sind es auch. Grund genug, sie festzuschreiben. In einem Weblog, *hier*! Ich interessiere mich sehr für Technik wie Computer, alte Computer, Apple Computer, Shell und Terminal, Webservices, Server und schreibe darüber an dieser Stelle unter [thahipster.de](https://thahipster.de).
+Ich [^1] schreibe hier über meine Erlebnisse. Das mag befremdlich klingen, hilft es mir selbst aber, mich auch in *fünf Jahren* noch erinnern zu können. Denn Gedanken sind **fluide**, Gefühle und Zeiten sind es auch. Grund genug sie festzuschreiben! In einem Weblog, *hier*! Ich interessiere mich sehr für Technik wie Computer, oft auch alte Computer, Apple Computer, Shell und Terminal, Webservices, Server und schreibe darüber an dieser Stelle unter [thahipster.de](https://thahipster.de).
 
 ![Stereoanlage](/assets/about/stereo1.jpg)
 <small>Meine Vintage Stereo Anlage</small>
@@ -29,7 +30,7 @@ Ich habe Interesse an folgenden Dingen, die auch in meinem Weblog immer wieder k
 
 Sofern nicht anders angegeben, sind alle Texte und Bilder mein Eigentum. *Alle Rechte vorbehalten*.
 
-Apfelhammer.de wird übrigens mit einem statischen Seiten-Generator erzeugt. Dieser nennt sich [Jekyll](http://jekyllrb.com) und basiert auf der Programmiersprache RUBY, man kann ihn dort herunter laden. Ich nutze einen CI Service [^2], der die Website automatisch baut und veröffentlicht. Ich habe das mal hier und hier beschrieben.
+Apfelhammer.de wird übrigens mit einem statischen Seiten-Generator erzeugt. Dieser nennt sich [Jekyll](http://jekyllrb.com) und basiert auf der Programmiersprache RUBY, man kann ihn dort herunter laden. <strike>Ich nutze einen CI Service [^2], der die Website automatisch baut und veröffentlicht. Ich habe das mal hier und hier beschrieben.</strike> Ich nutze mittlerweile github-pages und weiterhin Jekyll für die Inhalte, eine [Custom Domain](http://janmontag.de) habe ich nun auch.
 
 ---
 
