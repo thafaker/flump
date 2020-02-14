@@ -2,7 +2,7 @@
 layout: post
 title: It's all over now (Baby blue)
 date: 29.4.2019, 21:36:06
-image: /content/ tears.jpg
+image: /content/images/tears.jpg
 tags:
 - van morrison
 - musique

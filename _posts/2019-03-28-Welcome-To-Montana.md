@@ -2,7 +2,7 @@
 layout: post
 title: Wie ich manchmal mit mir selber sprach
 date: '28.3.2019, 13:56:17'
-image: /content/ weather.jpg
+image: /content/images/weather.jpg
 tags:
  - gedacht
  - rkn
