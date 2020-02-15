@@ -8,15 +8,18 @@ tags:
   - Herr Montag
   - In eigener Sache
 ---
-Wir ihr am Datum des letzten Eintrages sehen könnt, ist geraume Zeit schon kein Artikel mehr über den Äther gewandert. Das hat unterschiedliche Gründe, der wahrscheinlichste ist jedoch, dass ich meine Domain *apfelhammer.de* aufgegeben habe und nun auf die Domain **janmontag.de** umgezogen bin. Hintergrund war die Muse, frei nach den *Einstürzenden Neubauten* und ihrem Musentango [^1]. Ich bin fürchterlich hart für ein blödes Foto abgemahnt worden, sodass ich sämtliche Webaktivitäten einstellte. Nun aber, nach eben jener geraumen Zeit, da stolpterte ich über dieses tolle Theme hier [^2] und begann, meine alte Website umzuziehen. Das ist mir jetzt gelungen. Unter neuer Domain, meinem Namen. Frei von fremdem Content. Denn eigentlich hatte ich immer viel Spaß daran, ins Internet zu schreiben. Auf der [About Me](/aboutme/) Seite erfahrt ihr mehr über mich.
+Wir ihr am Datum des letzten Eintrages sehen könnt, ist geraume Zeit schon kein Artikel mehr über den Äther gewandert. Das hat unterschiedliche Gründe, der wahrscheinlichste ist jedoch, dass ich meine Domain *apfelhammer.de* aufgegeben habe und nun auf die Domain **janmontag.de** umgezogen bin. Hintergrund war die Muse, frei nach den *Einstürzenden Neubauten* und ihrem Musentango [^1]. 
 
+Ich bin fürchterlich hart für ein *blödes Foto* aufgrund von Copyright-Verstößen von so einer Abmahnanwalt-Maschine abgemahnt worden, sodass ich erst mal sämtliche Webaktivitäten einstellte. Nun aber, nach eben jener geraumen Zeit, da stolpterte ich über dieses tolle Theme hier [^2] und begann, meine alte Website umzuziehen. Das ist mir jetzt gelungen. Unter neuer Domain, meinem Namen. Frei von fremdem Content. Denn eigentlich hatte ich immer viel Spaß daran, ins Internet zu schreiben. Auf der [About Me](/aboutme/) Seite erfahrt ihr übrigens mehr über mich.
 
-<div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/i0MtTAW2bAo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+Im Zuge meines neuen Jekyll-Themes bin ich auch mit *Prose* in Berührung gekommen denn diesen "Service" kannte ich bisher noch nicht. Prose ist ein sogenanntes Headless-CMS, also für so Static-Content-Creation-Systeme wie Jekyll eins ist, ohne Backend etc., da springt Prose in die Presche und ersetzt sozusagen das Webbackend. Hier kann man Fotos hochladen und wenn man einen Post fabriziert hat, dann commited er das auch ganz normal ins GIT-Repo und die Website wird aktualisiert, so wie das dann auch automatisch bei Wordpress o.ä. funktioniert. Und der Autor von Beautifull Jekyll, der hat Prose integriert und ein paar Parameter gesetzt, sodass das einfachst funktioniert. 
+
+![Prose Headless CMS]({{site.baseurl}}/img/prose.png)
+
+Finde ich ziemlich cool. Damit kann man tatsächlich ganz easy auch von unterwegs, ohne Terminal und GIT-Zugang, einen Artikel schreiben. Wenn man das möchte. Ich werde das mal beobachten und ausprobieren.
 
 <small>
-**Artikelbild**: Picture by me 2019.
+**Artikelbild**: Picture by me 2020.
 </small>
 
 ---
