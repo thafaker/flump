@@ -1,16 +1,14 @@
 ---
 layout: post
-title: I've come a long way, Baby
+title: 'I''ve come a long way, Baby'
 subtitle: Herr Montag in eigener Sache.
 published: false
-date: 15.2.2020, 16:48:27
-#image: /content/images/small/
+date: '15.2.2020, 16:48:27'
 tags:
-- Herr Montag
-- In eigener Sache
-
+  - Herr Montag
+  - In eigener Sache
 ---
-Wir ihr am Datum des letzten Eintrages sehen könnt, ist geraume Zeit schon kein Artikel mehr über den Äther gewandert. Das hat unterschiedliche Gründe, der wahrscheinlichste ist jedoch, dass ich meine Domain *apfelhammer.de* aufgegeben habe und nun auf die Domain **janmontag.de** umgezogen bin. Hintergrund war die Muse, frei nach den *Einstürzenden Neubauten* und ihrem Musentango [^1]. Ich bin fürchterlich hart für ein blödes Foto abgemahnt worden, sodass ich sämtliche Webaktivitäten einstellte. Nun aber, nach eben jener geraumen Zeit, da stolpterte ich über dieses tolle Theme hier und begann, meine alte Website umzuziehen. Das ist mir jetzt gelungen. Unter neuer Domain, meinem Namen. Frei von fremdem Content. Denn eigentlich hatte ich immer viel Spaß daran, ins Internet zu schreiben. Auf der [About Me](/aboutme/) Seite erfahrt ihr mehr über mich.
+Wir ihr am Datum des letzten Eintrages sehen könnt, ist geraume Zeit schon kein Artikel mehr über den Äther gewandert. Das hat unterschiedliche Gründe, der wahrscheinlichste ist jedoch, dass ich meine Domain *apfelhammer.de* aufgegeben habe und nun auf die Domain **janmontag.de** umgezogen bin. Hintergrund war die Muse, frei nach den *Einstürzenden Neubauten* und ihrem Musentango [^1]. Ich bin fürchterlich hart für ein blödes Foto abgemahnt worden, sodass ich sämtliche Webaktivitäten einstellte. Nun aber, nach eben jener geraumen Zeit, da stolpterte ich über dieses tolle Theme hier [^2] und begann, meine alte Website umzuziehen. Das ist mir jetzt gelungen. Unter neuer Domain, meinem Namen. Frei von fremdem Content. Denn eigentlich hatte ich immer viel Spaß daran, ins Internet zu schreiben. Auf der [About Me](/aboutme/) Seite erfahrt ihr mehr über mich.
 
 
 <div align="center">
@@ -26,3 +24,4 @@ Wir ihr am Datum des letzten Eintrages sehen könnt, ist geraume Zeit schon kein
 **Fußnoten**:
 
 [^1]: Den Song *Musentango* kann man sich hier anhören: [youtube](https://www.youtube.com/watch?v=ivbSDNe6ZR8)
+[^2]: [Beautiful Jekyll](https://deanattali.com/beautiful-jekyll/) von Dean Attali.
