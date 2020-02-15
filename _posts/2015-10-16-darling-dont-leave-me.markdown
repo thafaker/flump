@@ -2,7 +2,7 @@
 layout: post
 title: Darling don't leave me
 date: '2015-10-16 19:48:04'
-image: /content/images/darling.jpg
+image: /content/images/small/darling.jpg
 tags:
  - musik
  - vinyl

@@ -2,7 +2,7 @@
 layout: post
 title: Well…
 date: '2017-01-13 18:21:19'
-image: /content/images/fontain.jpg
+image: /content/images/small/fontain.jpg
 tags:
 - personliches
 - bilder

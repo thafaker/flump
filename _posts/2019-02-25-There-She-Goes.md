@@ -7,7 +7,7 @@ tags:
 - fix.it
 - github
 - pages
-image: /content/images/2019-02-14_lucrezia-carnelos-1060145-unsplash.jpg
+image: /content/images/small/2019-02-14_lucrezia-carnelos-1060145-unsplash.jpg
 date: 2019-02-25 21:40:23 +0000
 ---
 

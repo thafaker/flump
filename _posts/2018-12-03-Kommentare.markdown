@@ -2,7 +2,7 @@
 layout: post
 title: Apfelhammer.de kann jetzt Kommentare
 date: '13:51 2018-12-03'
-image: /content/images/kommentare.jpeg
+image: /content/images/small/kommentare.jpeg
 tags:
  - jekyll
  - website

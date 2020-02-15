@@ -2,7 +2,7 @@
 layout: post
 title: Was gibt es besseres…
 date: '2016-11-27 15:42:20'
-image: /content/images/fleetwood.jpg
+image: /content/images/small/fleetwood.jpg
 tags:
  - musik
  - verlebt

@@ -2,7 +2,7 @@
 layout: post
 title: Paul ist tot
 date: '2016-09-18 08:33:07'
-image: /content/images/fehlfarben.jpg
+image: /content/images/small/fehlfarben.jpg
 tags:
 - vinyl
 - personliches
