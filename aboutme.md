@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: Alles über Herrn Montag
-image: /content/images/small/about.jpg
+image: /content/images/about.jpg
 published: true
 ---
 
