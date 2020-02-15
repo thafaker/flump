@@ -33,6 +33,8 @@ Sofern nicht anders angegeben, sind alle Texte und Bilder mein Eigentum. *Alle R
 
 Apfelhammer.de wird übrigens mit einem statischen Seiten-Generator erzeugt. Dieser nennt sich [Jekyll](http://jekyllrb.com) und basiert auf der Programmiersprache RUBY, man kann ihn dort herunter laden. <strike>Ich nutze einen CI Service [^2], der die Website automatisch baut und veröffentlicht. Ich habe das mal hier und hier beschrieben.</strike> Ich nutze mittlerweile *Github-Pages* und weiterhin **Jekyll** für die Inhalte, eine [Custom Domain](http://janmontag.de) habe ich nun auch.
 
+![LGRR1536.jpeg]({{site.baseurl}}/img/LGRR1536.jpeg)
+
 ---
 
 **Fußnote**:
