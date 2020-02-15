@@ -2,7 +2,7 @@
 layout: post
 title: Die Kybernauten haben Melbourne erreicht
 date: '2010-01-16 13:29:40'
-image: /content/images/klangwerk.jpg
+image: /content/images/small/klangwerk.jpg
 tags:
 - musik
 - vinyl
