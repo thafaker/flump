@@ -2,7 +2,7 @@
 layout: post
 title: Rose Pro SL 3000
 date: '2016-10-01 10:03:20'
-image: /content/images/bike1.jpg
+image: /content/images/small/bike1.jpg
 tags:
 - vintage
 - rennrad

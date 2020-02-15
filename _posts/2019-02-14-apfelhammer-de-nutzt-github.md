@@ -1,6 +1,6 @@
 ---
 title: Apfelhammer.de nutzt Github
-image: /content/images/2019-02-14_thomas-kvistholt-191153-unsplash.jpg
+image: /content/images/small/2019-02-14_thomas-kvistholt-191153-unsplash.jpg
 tags:
 - github
 - pages

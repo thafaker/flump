@@ -2,7 +2,7 @@
 layout: post
 title: Whiskey in the Jar…
 date: 2019-03-10 20:14:33 +0100
-image: /content/images/xxx.jpg
+image: /content/images/small/xxx.jpg
 tags:
 - persönlich
 - gedanken

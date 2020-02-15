@@ -2,7 +2,7 @@
 layout: post
 title: It's Nico!
 date: '20:47 2018-12-01'
-image: /content/images/nico.jpg
+image: /content/images/small/nico.jpg
 tags:
  - musik
  - vinyl
