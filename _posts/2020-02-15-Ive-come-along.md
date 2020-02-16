@@ -24,6 +24,7 @@ Das finde ich ziemlich cool. Damit kann man tatsächlich ganz easy auch von unte
 ![Prose.io auf iPhone mobile Safari]({{site.baseurl}}/img/prose.io.mobile.PNG)!
 <small>Prose.io auf iPhone mobile Safari</small>
 
+---
 
 <small>
 **Artikelbild**: Photo by [israel palacio](https://unsplash.com/@othentikisra?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/connection?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
