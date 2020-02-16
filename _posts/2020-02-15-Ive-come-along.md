@@ -21,6 +21,9 @@ Im Zuge meines neuen Jekyll-Themes bin ich auch mit *Prose* in Berührung gekomm
 
 Das finde ich ziemlich cool. Damit kann man tatsächlich ganz easy auch von unterwegs, ohne Terminal und GIT-Zugang, einen Artikel schreiben. Wenn man das möchte. Ich werde das mal beobachten und weiterhin ausprobieren.
 
+![Prose.io auf iPhone mobile Safari]({{site.baseurl}}/img/prose.io.mobile.PNG)![prose.io.mobile.PNG]({{site.baseurl}}/img/prose.io.mobile.PNG)
+
+
 <small>
 **Artikelbild**: Photo by [israel palacio](https://unsplash.com/@othentikisra?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/connection?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 </small>
