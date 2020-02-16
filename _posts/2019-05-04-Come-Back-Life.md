@@ -1,16 +1,16 @@
 ---
 layout: post
 title: Come Back Life
-date: 2019-05-04 01:00:00 +0200
+date: '2019-05-04 01:00:00 +0200'
 image: /content/images/small/kadavar.png
 tags:
-- vinyl
-- kadavar
-- musique
-- RotoR
-
+  - vinyl
+  - kadavar
+  - musique
+  - RotoR
+published: true
 ---
-**An** dieser Stelle wird es einfach mal wieder Zeit für ein paar wichtige Lebensinhalte, zum Teil. Ich habe genau so einen [Artikel schon mal](https://apfelhammer.de/2017/03/05/lebensinhalte-zum-teil/) geschrieben, es ist gar nicht so lange her. Es ging um Rennradfahren und Schallplatte-Hören. Und so ist es geblieben. An solch grundsätzlichen Dingen ändert sich demnach auch nicht so einfach etwas. Aber andauernd verändert sich alles um uns herum. Und wir versuchen Schritt zu halten.
+**An** dieser Stelle wird es einfach mal wieder Zeit für ein paar wichtige Lebensinhalte, zum Teil. Ich habe genau so einen [Artikel schon mal](/2017/03/05/lebensinhalte-zum-teil/) geschrieben, es ist gar nicht so lange her. Es ging um Rennradfahren und Schallplatte-Hören. Und so ist es geblieben. An solch grundsätzlichen Dingen ändert sich demnach auch nicht so einfach etwas. Aber andauernd verändert sich alles um uns herum. Und wir versuchen Schritt zu halten.
 
 Müssen Schritt halten. Weil es eben jene Umwelt von uns verlangt. Unsere Gesellschaft ist eben so. Ob man das nun hinnehmen möchte oder nicht, bleibt oftmals gar nicht dem Protagonisten des eigene Lebens überlassen, weil er zum Spielball der Dinge wird, in denen er lebt. Und da muss er mitspielen. Sie verstehen? Ich denke schon.
 
