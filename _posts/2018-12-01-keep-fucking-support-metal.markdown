@@ -9,7 +9,7 @@ tags:
  - verlebt
 ---
 
-**Ihr** kennt das Spiel. Ich schreibe eine wilde Aussage in den Titel, um es mit einem Lebensgefühl zu verbinden. In diesem Falle ist es eine Aussage, die dereinst der legendäre George *Corpsegrinder* Fisher zu sagen pflegte, beispielsweise wenn er den Überhit **Hammer Smashed Face** seiner Band *Cannibal Corpse* ankündigte. Und just, so trug es sich zu, war ich zum Konzert der legendären **Slayer** auf ihrer Abschieds **FINAL WORLD TOUR** in Erfurt. Aber nicht nur das, nicht nur Slayer spielten an diesem Abend groß auf, nein, auch Anthrax und Lamb of God, um Obituary nicht zu vergessen. Es war der absolute Hammer.
+**Ihr** kennt das Spiel: Ich schreibe eine wilde Aussage in den Titel, um es mit einem Lebensgefühl zu verbinden! In diesem Falle ist es eine Aussage, die dereinst der legendäre George *Corpsegrinder* Fisher zu sagen pflegte, beispielsweise wenn er den Überhit **Hammer Smashed Face** seiner Band *Cannibal Corpse* ankündigte. Und just, so trug es sich zu, war ich zum Konzert der legendären **Slayer** auf ihrer Abschieds **FINAL WORLD TOUR** in Erfurt. Aber nicht nur das, nicht nur Slayer spielten an diesem Abend groß auf, nein, auch Anthrax und Lamb of God, um Obituary nicht zu vergessen. Es war der absolute Hammer.
 
 ![Slayer an 30.11.2018, Erfurt](/assets/2018/slayer1.jpg)
 <small>Slayer Eintrittskarte, 30.11.2018, Erfurt</small>
