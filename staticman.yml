@@ -27,7 +27,7 @@ comments:
   # file.
   branch: "master"   #  use "master" for user page or "gh-pages" for project pages
 
-  commitMessage: "New comment by {fields.name}"
+  commitMessage: "Neuer Kommentar von {fields.name}"
 
   # (*) REQUIRED
   #
@@ -63,7 +63,7 @@ comments:
   #   type: "comment"
 
   # Name of the site. Used in notification emails.
-  # name: "Your Site"
+  name: "JanMontag.de"
 
   # Notification settings. When enabled, users can choose to receive notifications
   # via email when someone adds a reply or a new comment. This requires an account
