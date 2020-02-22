@@ -4,7 +4,8 @@ title: 'Time to change'
 subtitle: It is not worth?
 published: false
 date: '22.2.2020, 11:53:31'
-image: /content/images/small/prose.jpeg
+image: /content/images/2020/02/vampire.jpg
+bigimage: /content/images/2020/02/vampire.jpg
 tags:
   - Herr Montag
   - In eigener Sache
