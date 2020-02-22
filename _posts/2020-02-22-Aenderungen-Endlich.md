@@ -32,4 +32,3 @@ tags:
 **Fußnoten**:
 
 [^1]: Den Song *Musentango* kann man sich hier anhören: [youtube](https://www.youtube.com/watch?v=ivbSDNe6ZR8)
-[^2]: [Beautiful Jekyll](https://deanattali.com/beautiful-jekyll/) von *Dean Attali*.
