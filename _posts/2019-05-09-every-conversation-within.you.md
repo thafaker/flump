@@ -28,4 +28,4 @@ Lassen wir also den oben zitierten Song zu Wort kommen.
 
 **Fußnoten**:
 
-[^1]: Der Autor [liebt](https://apfelhammer.de/2016/11/29/talking-heads-remain-in-light/) die Talking Heads, hat diese jedoch viel zu spät entdeckt, hört sie davor aber um so lieber.
+[^1]: Der Autor [liebt](/2016/11/29/talking-heads-remain-in-light/) die Talking Heads, hat diese jedoch viel zu spät entdeckt, hört sie dafür aber um so lieber.
