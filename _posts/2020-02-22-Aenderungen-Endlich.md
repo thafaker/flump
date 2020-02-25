@@ -2,7 +2,7 @@
 layout: post
 title: 'Time to change'
 subtitle: It is not worth?
-published: false
+published: true
 date: '22.2.2020, 11:53:31'
 image: /img/thumbnail/vampire.jpg
 bigimg: /content/images/2020/02/vampire.jpg
@@ -30,7 +30,7 @@ Und um aufzuzeigen wie gefangen man sich manchmal in seinem eigenen Leben fühlt
 ![]({{site.baseurl}}/img/propaganda.png)<br />
 <small>Sparks - Propaganda Vinyl, 1974</small>
 
-Machen Sie sich keine Sorgen, es wird schon wieder weiter gehn'
+Machen Sie sich keine Sorgen, es wird schon wieder weiter gehn'.
 
 ---
 
