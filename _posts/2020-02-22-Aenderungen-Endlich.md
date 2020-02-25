@@ -18,7 +18,7 @@ Ich habe mich ziemlich lange mit dieser Entscheidung herum geschlagen. Ich habe 
 
 Allein, ich habe keine Antwort. Ich muss es aber dennoch versuchen. So geht es jedenfalls nicht weiter. Also muss es anders gehen! *Erst mal*. Und dann? Ja dann… das ist ein Prozess. "Wie schön das klingt". Ein Prozess. Ein Prozess des Lebensweges? Wege sind einzigartig, können sich aber kreuzen… und auch wieder entfernen. In völlig verschiedene Richtungen. Wer bin ich über mich selbst zu urteilen, dass ich den richtigen Weg bereits gefunden habe? Niemand!
 
-Zeit für **Metallica's Hardwired… to self destruct** auf Schallplatte.
+Zeit für **Metallica's Hardwired… to self destruct** auf Schallplatte. Manchmal ist Härte einfach gut.
 
 ![Metallica - Hardwired…to Self-Destruct auf Vinyl]({{site.baseurl}}/img/metallica.png)<br />
 <small>Metallica - Hardwired…to Self-Destruct Vinyl, 2016</small>
@@ -40,4 +40,4 @@ Machen Sie sich keine Sorgen, es wird schon wieder weiter gehn'.
 
 **Fußnoten**:
 
-[^1]: Es geht um meinen Job. Um nichts anderes geht es hier…
+[^1]: Es geht nur um meinen Job. Um nichts anderes geht es hier…
