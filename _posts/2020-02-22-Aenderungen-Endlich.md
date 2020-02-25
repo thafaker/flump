@@ -22,13 +22,13 @@ Allein, ich habe keine Antwort. Ich muss es aber versuchen. So geht es nicht wei
 
 Zeit für **Metallica's Hardwired… to self destruct** auf Schallplatte.
 
-![Metallica - Hardwired…to Self-Destruct Vinyl]({{site.baseurl}}/img/metallica.png)<br />
-<small>Metallica - Hardwired…to Self-Destruct Vinyl</small>
+![Metallica - Hardwired…to Self-Destruct auf Vinyl]({{site.baseurl}}/img/metallica.png)<br />
+<small>Metallica - Hardwired…to Self-Destruct Vinyl, 2016</small>
 
 Und um aufzuzeigen wie gefangen man sich manchmal fühlt, sollte stellvertretend das 70er-Album Propaganda von Sparks stehen :-)
 
-![Metallica - Hardwired…to Self-Destruct Vinyl]({{site.baseurl}}/img/metallica.png)<br />
-<small>Metallica - Hardwired…to Self-Destruct Vinyl</small>
+![]({{site.baseurl}}/img/propaganda.png)<br />
+<small>Sparks - Propaganda Vinyl</small>
 
 Machen Sie sich keine Sorgen, es wird schon wieder weiter gehn'
 
