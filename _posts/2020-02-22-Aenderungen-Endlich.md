@@ -42,4 +42,4 @@ Machen Sie sich keine Sorgen, es wird schon wieder weiter gehn'
 
 **Fußnoten**:
 
-[^1]: Es geht um meinen Job. Um nichts anderes geht es hier.
+[^1]: Es geht um meinen Job. Um nichts anderes geht es hier…
