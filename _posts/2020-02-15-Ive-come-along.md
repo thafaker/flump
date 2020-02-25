@@ -5,7 +5,7 @@ subtitle: Herr Montag in eigener Sache.
 published: true
 date: '15.2.2020, 16:48:27'
 image: /content/images/small/prose.jpeg
-bigimg: /content/images/small/prose.jpeg 
+#bigimg: /content/images/small/prose.jpeg
 tags:
   - Herr Montag
   - In eigener Sache
