@@ -16,8 +16,6 @@ Ich habe mich ziemlich lange mit dieser Entscheidung herum geschlagen. Ich habe 
 
 *Was ist dann?*
 
-![Artikelbild](/content/images/2020/02/vampire.jpg)
-
 Allein, ich habe keine Antwort. Ich muss es aber dennoch versuchen. So geht es jedenfalls nicht weiter. Also muss es anders gehen! *Erst mal*. Und dann? Ja dann… das ist ein Prozess. "Wie schön das klingt". Ein Prozess. Ein Prozess des Lebensweges? Wege sind einzigartig, können sich aber kreuzen… und auch wieder entfernen. In völlig verschiedene Richtungen. Wer bin ich über mich selbst zu urteilen, dass ich den richtigen Weg bereits gefunden habe? Niemand!
 
 Zeit für **Metallica's Hardwired… to self destruct** auf Schallplatte.
@@ -35,7 +33,7 @@ Machen Sie sich keine Sorgen, es wird schon wieder weiter gehn'.
 ---
 
 <small>
-**Artikelbild**: Photo by Jan Montag.
+**Artikelbild** und alle anderen Bilder dieses Artikels: (C) Jan Montag.
 </small>
 
 ---
