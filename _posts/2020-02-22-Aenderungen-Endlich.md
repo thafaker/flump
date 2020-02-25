@@ -5,12 +5,12 @@ subtitle: It is not worth?
 published: false
 date: '22.2.2020, 11:53:31'
 image: /content/images/2020/02/vampire.jpg
-bigimage: /content/images/2020/02/vampire.jpg
+bigimg: /content/images/2020/02/vampire.jpg
 tags:
   - Herr Montag
   - In eigener Sache
 ---
-
+Ich hoffe, ich kann bald über *mannigfaltige* Änderungen in meinem Leben berichten.
 
 ![Artikelbild](/content/images/israel-palacio-ImcUkZ72oUs-unsplash.jpg)
 
