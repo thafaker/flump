@@ -129,8 +129,8 @@ google_analytics: "UA-31637693-3"
 # To use Staticman comments, fill in repository, branch, and endpoint
 
 #staticman:
-#  repository : thafaker/thafaker.github.io # GitHub username/repository eg. "daattali/beautiful-jekyll"
-#  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
+  repository : thafaker/thafaker.github.io # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
   #endpoint   : # URL of your own deployment, with a trailing slash (will fallback to a public GitLab instance) eg. https://<your-api>/v3/entry/github/
 #  reCaptcha:
     # reCaptcha for Staticman (OPTIONAL, but recommended for spam protection)
