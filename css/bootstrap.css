@@ -1283,7 +1283,7 @@ p {
   margin-bottom: 20px;
   font-size: 16px;
   font-weight: 300;
-  line-height: 1.4;
+  line-height: ;
 }
 @media (min-width: 768px) {
   .lead {
