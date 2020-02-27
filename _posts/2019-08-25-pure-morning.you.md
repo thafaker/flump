@@ -12,7 +12,7 @@ tags:
 ---
 Im See baden. Unberührt. *Pure Morning*. [^1]
 
-![]({{site.baseurl}}/conent/images/2019/08/kulki.jpg)
+![]({{site.baseurl}}/content/images/2019/08/kulki.jpg)
 
 ---
 
