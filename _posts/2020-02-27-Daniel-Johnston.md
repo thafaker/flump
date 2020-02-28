@@ -16,7 +16,7 @@ tags:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ma7lyfYzIw8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Später hat er einen Plattendeal mit einem Major-Label ausgeschlagen, weil veim gleichen Label die Metaller von **Metallica** gezeichnet waren - und er diese für Satan persönlich hielt.
+Später hat er einen Plattendeal mit einem Major-Label ausgeschlagen, weil beim gleichen Label die Metaller von **Metallica** gezeichnet waren - und er diese für *Satan* persönlich hielt.[^1]
 
 So blieb Zeit seines Lebens die große Karriere verwehrt, aber unter Musiker-Kollegen hat er mächtige Spuren hinterlassen.
 
@@ -30,4 +30,4 @@ So blieb Zeit seines Lebens die große Karriere verwehrt, aber unter Musiker-Kol
 
 **Fußnoten**:
 
-Keine Fußnoten.
+[^1]: Don't play cards with SATAN!
