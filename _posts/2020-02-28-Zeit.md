@@ -1,15 +1,17 @@
 ---
 layout: post
-title: Was ist die Zeit?
-subtitle: Sie macht uns alt!
-published: true
-date: '28.2.2020, 19:36:05'
+title: Krautrock Liebe
+subtitle: Am Schalttag!
+published: false
+date: '29.2.2020, 19:37:39'
 tags:
-  - gedacht
+  - Krautrock
+  - vinyl
+  - gehört
 ---
-**Seit** ich denken kann wusste ich nicht, wo mein Leben einmal hinführen soll. Und hinführen wird. Ich befand mich Zeit meines Lebens in einer Art Dauerschleife, in der ich kreiste. Ohne einen Sinn zu finden. Seit ich denken kann frage ich mich, wofür all die Last und all die Mühen gut sein werden. Und bin dabei sogar ein wenig gespannt auf die Antwort, das muss ich zugeben!
+An dieser Stelle möchte ich ein mal auf meine große *Krautrock-Liebe* eingehen, die sich eigentlich erst entwickelte, als ich Kraftwerk schon lange in seiner modernen und erfolgreichen Inkarnation um Ralf und Florian sowie Wolfgang und Karl kannte. [^1] Und sie den Krautrock-Stiefeln schon längst entwachsen waren, praktisch auf der Höhe ihres synthetischen Bildes von Musik waren und dieses zur Perfektion gebracht hatten.
 
-Auch jetzt, im gestandenen Erwachsenenalter, hat sich daran nichts geändert.
+![Bild von Kraftwerk]()
 
 ---
 
@@ -21,4 +23,4 @@ Auch jetzt, im gestandenen Erwachsenenalter, hat sich daran nichts geändert.
 
 **Fußnoten**:
 
-Keine Fußnoten.
+[^1]: Ralf Hütter, Florian Schneider, Wolfgang Flür, Karl Bartos.
